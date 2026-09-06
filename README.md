@@ -56,8 +56,3 @@ Boot Event Data → Cleaning/Grouping → Frequency Distribution → Distributio
 - Integration with predictive-maintenance models
 
 
-## Notes
-
-- Add only datasets and screenshots that you are permitted to share.
-- Keep credentials, API keys, private endpoints, internal identifiers, and confidential implementation details out of the repository.
-- Replace any placeholder configuration with environment variables before deployment.
