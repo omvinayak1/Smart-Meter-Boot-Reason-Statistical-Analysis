@@ -55,19 +55,6 @@ Boot Event Data → Cleaning/Grouping → Frequency Distribution → Distributio
 - Automated reports
 - Integration with predictive-maintenance models
 
-## Suggested Repository Structure
-
-```text
-project/
-├── README.md
-├── docs/
-├── data/
-├── notebooks/
-├── src/
-├── models/
-├── dashboard/
-└── requirements.txt
-```
 
 ## Notes
 
